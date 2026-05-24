@@ -403,5 +403,5 @@ Moral  Compassion and kindness are the greatest gifts we can give. A small act o
 यह कहकर युधिष्ठिर क्षत्रिय-कुल की मर्यादा रखने के लिए जुआ खेलने गए।`,
     img: "Adhyay5.png"
   }
-  }
+ }
 };
